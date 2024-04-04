@@ -28,7 +28,7 @@
 
 // Estilos para imágenes de contenido
 .pestana-opcion-contenido img {  
-  width: 100%;
+  width: 65%;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -53,6 +53,10 @@ html {
   text-align: center;
   width: 100%;  
   padding: 15px;  
+}
+
+.header img {
+  width: 30%;
 }
 
 // Estilos para listado de opciones de menú
